@@ -1,2 +1,3 @@
 # practica_github
-Matias agrego una linea al readme
+Joaquín Viretti
+Martín Hernandez Izcue
